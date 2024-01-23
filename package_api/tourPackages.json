@@ -1,0 +1,498 @@
+[ 
+    {
+        "package_Id": "TTPKG01",
+        "destination": [ "Kedarnath"],
+        "des_image":[
+            "https://wallpapers.com/images/featured/kedarnath-4k-9pd6c84fjldyenjg.jpg",
+            "https://wallpapers.com/images/featured/kedarnath-4k-9pd6c84fjldyenjg.jpg",
+            "https://wallpapers.com/images/featured/kedarnath-4k-9pd6c84fjldyenjg.jpg",
+            "https://wallpapers.com/images/featured/kedarnath-4k-9pd6c84fjldyenjg.jpg"
+        ],
+        "des_discription": "Kedarkantha is one of the most popular winter treks of India. It's an easy to moderate level trek which attracts visitors for its amazing snow-clad landscapes and a tall summit (12,500 ft), which offers majestic panoramic views from its top. Those who love snow & mountains, this trek is undoubtedly the best choice for them.",
+        "source": [
+            "Rajkot",
+            "Ahmedabad",
+            "Mumbai",
+            "Delhi"
+        ],
+        "duration": 8,
+        "price": 10000,
+        "includedServices": [
+            "Accommodation",
+            "Guided Tours",
+            "Food",
+            "Travelling"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "activities": [
+                    "Departure from Your City"
+                ]
+            },
+            {
+                "day": 2,
+                "activities": [
+                    "Arrival at Haridwar and Night Stay"
+                ]
+            },
+            {
+                "day": 3,
+                "activities": [
+                    "Depart for Sankri from Haridwar"
+                ]
+            },
+            {
+                "day": 4,
+                "activities": [
+                    "Trek to Juda Ka Taal"
+                ]
+            },
+            {
+                "day": 5,
+                "activities": [
+                    "Trek to Kedarnath Temple"
+                ]
+            },
+            {
+                "day": 5,
+                "activities": [
+                    "Trek to Kedarnath Temple"
+                ]
+            },
+            {
+                "day": 6,
+                "activities": [
+                    "Travelling to Rishikesh"
+                ]
+            },
+            {
+                "day": 7,
+                "activities": [
+                    "River Rafting and More Activities and Sightseeing"
+                ]
+            },
+            {
+                "day": 8,
+                "activities": [
+                    "End of your Journey and return"
+                ]
+            }
+        ]
+    },
+    {
+        "package_Id": "TTPKG02",
+        "destination": [
+            "Manali",
+            "Kasol"
+        ],
+        "des_image":"https://images.unsplash.com/photo-1581791534721-e599df4417f7?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a2Fzb2x8ZW58MHx8MHx8fDA%3D",
+        "des_discription": "Manali is considered as God’s heaven. From majestic mountains to long rivers to aromatic forest and an outstanding blend of the colours of nature, Manali has its all.Manali is also a pioneer of many aero sports. In all Manali is a wholesome of refreshments and excitements. Kasol known as Mini Israel because a major proportion of people here migrated from Israel. In all Kasol does leave an impact on minds and soul and rejuvenates and living the moment fully.",
+        "source": [
+            "Rajkot",
+            "Ahmedabad",
+            "Mumbai",
+            "Delhi"
+        ],
+        "duration": 9,
+        "price": 9500,
+        "includedServices": [
+            "Accommodation",
+            "Guided Tours",
+            "Food",
+            "Travelling"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "activities": [
+                    "Departure from Your City"
+                ]
+            },
+            {
+                "day": 2,
+                "activities": [
+                    "Arrival at Pathankot and Depart to Kasol"
+                ]
+            },
+            {
+                "day": 3,
+                "activities": [
+                    "Day for Acclimatisation & visit Manikaran Temple"
+                ]
+            },
+            {
+                "day": 4,
+                "activities": [
+                    "Travel to Manali & River Rafting"
+                ]
+            },
+            {
+                "day": 5,
+                "activities": [
+                    "Trek to Advanced Basecamp"
+                ]
+            },
+            {
+                "day": 5,
+                "activities": [
+                    "Trek to Advanced Basecamp"
+                ]
+            },
+            {
+                "day": 6,
+                "activities": [
+                    "Trek to Snow Point & Back"
+                ]
+            },
+            {
+                "day": 7,
+                "activities": [
+                    "Manali Sightseeing and Paragliding"
+                ]
+            },
+            {
+                "day": 8,
+                "activities": [
+                    "End of your Journey and return"
+                ]
+            }
+        ]
+    },
+    {
+        "package_Id": "TTPKG03",
+        "destination": [
+            "Jaisalmer"
+        ],
+        "des_image":"https://images.unsplash.com/photo-1489493585363-d69421e0edd3?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dGhhciUyMGRlc2VydHxlbnwwfHwwfHx8MA%3D%3D",
+        "des_discription": "Jaisalmer is also known as 'The Golden City' of India and is one of the largest city of Rajasthan, which also comprises of the Pakistan border on the West. The town is the world heritage site and is mainly built of yellowish sandstone.",
+        "source": [
+            "Rajkot",
+            "Ahmedabad",
+            "Mumbai",
+            "Delhi"
+        ],
+        "duration": 5,
+        "price": 6000,
+        "includedServices": [
+            "Accommodation",
+            "Guided Tours",
+            "Food",
+            "Travelling"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "activities": [
+                    "Starting your Journey" 
+                ]
+            },
+            {
+                "day": 2,
+                "activities": [
+                    "Arrival at Jaisalmer"
+                ]
+            },
+            {
+                "day": 3,
+                "activities": [
+                    "Day for Camel Safari and some treking"
+                ]
+            },
+            {
+                "day": 4,
+                "activities": [
+                    "Day for Adventure Activities"
+                ]
+            },
+            {
+                "day": 5,
+                "activities": [
+                    "Sighting near Jaisalmer"
+                ]
+            },
+            {
+                "day": 6,
+                "activities": [
+                    "End of your Journey and return"
+                ]
+            }
+        ]
+    },
+    {
+        "package_Id": "TTPKG04",
+        "destination": [
+            "Goa"
+        ],
+        "des_image":"https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "des_discription": "The state of Goa, in India, is famous for its beaches and places of worship. Tourism is its primary industry, and is generally focused on the coastal areas of Goa, with decreased tourist activity inland.",
+        "source": [
+            "Rajkot",
+            "Ahmedabad",
+            "Mumbai",
+            "Delhi"
+        ],
+        "duration": 7,
+        "price": 20000,
+        "includedServices": [
+            "Accommodation",
+            "Guided Tours",
+            "Food",
+            "Travelling"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "activities": [
+                    "Starting your Journey" 
+                ]
+            },
+            {
+                "day": 2,
+                "activities": [
+                    "Arrival at Goa"
+                ]
+            },
+            {
+                "day": 3,
+                "activities": [
+                    "Dolphin Trip"                    
+                ]
+            },
+            {
+                "day": 4,
+                "activities": [
+                    "Mandovi Evening Shared Boat Ride - Shared Transfer"
+                ]
+            },
+            {
+                "day": 5,
+                "activities": [
+                    "Jet Skiing at Calangute and Baga Beach, Kayaking in Baga Creek"
+                ]
+            },
+            {
+                "day": 6,
+                "activities": [
+                    "North Goa Sightseeing"
+                ]
+            },
+            {
+                "day":7,
+                "activities": [
+                    "End of your Journey and return"
+                ]
+            }
+        ]
+    },
+    {
+        "package_Id": "TTPKG05",
+        "destination": [
+            "Saputara"
+        ],
+        "des_image":"https://www.rivieratours.in/cover_image/Saputara-Lake1.jpg",
+        "des_discription": "Saputara hill station is situated in the district of Dang. It is a part of the Sahyadri range of mountains and the highest point is at an altitude of 1081 metres from sea level. After the very first rain of the season, the whole area comes out full of greenery, frequent waterfalls and gushing streams. Saputara Adventure Camp is all about feeling the thrill of camping in these most beautiful hills. The participants will stay in tents, visit tourist places and hike up to nearby hills. The city has been developed as a Hill Station by the government and is a hot favourite place of tourists all the way coming from Gujarat, Nashik and Bombay. The place is also famous for its rich tribal heritage and festivals. Many museums are here showing the culture of the Dangs, the local tribe.",
+        "source": [
+            "Rajkot",
+            "Ahmedabad",
+            "Mumbai",
+            "Delhi"
+        ],
+        "duration": 4,
+        "price": 5000,
+        "includedServices": [
+            "Accommodation",
+            "Guided Tours",
+            "Food",
+            "Travelling"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "activities": [
+                    "Starting your Journey" 
+                ]
+            },
+            {
+                "day": 2,
+                "activities": [
+                    "Arrival at Saputara and Activties"
+                ]
+            },
+            {
+                "day": 3,
+                "activities": [
+                    "Treking at Governor Hill"                    
+                ]
+            },
+            {
+                "day": 4,
+                "activities": [
+                    "Sighting and End of your Journey and return"
+                ]
+            }
+        ]
+    },
+    {
+        "package_Id": "TTPKG06",
+        "destination": [
+            "Meghalaya"
+        ],
+        "des_image":"https://cdn-agnjn.nitrocdn.com/dNsRUudDKzRLOEehZiLyIVrzbimKPWow/assets/static/optimized/rev-70608c3/wp-content/uploads/2020/09/Dawki_Meghalaya_01_1.jpg",
+        "des_discription": "Located in North-east India, Meghalaya, also known as the Abode of Clouds, falls in one of the richest biodiversity areas in the world. The famed monsoons, the rich traditional festivals, and the dramatic terrain are just some of the many things this state is famous for.",
+        "source": [
+            "Rajkot",
+            "Ahmedabad",
+            "Mumbai",
+            "Delhi"
+        ],
+        "duration": 5,
+        "price": 20500,
+        "includedServices": [
+            "Accommodation",
+            "Guided Tours",
+            "Food",
+            "Travelling"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "activities": [
+                    "Starting your Journey" 
+                ]
+            },
+            {
+                "day": 2,
+                "activities": [
+                    "Arrival at Meghalaya and stay at hotel"
+                ]
+            },
+            {
+                "day": 3,
+                "activities": [
+                    "Majuli Cycling Tour"                    
+                ]
+            },
+            {
+                "day": 4,
+                "activities": [
+                    "Sighting in Shillong"
+                ]
+            },
+            {
+                "day": 5,
+                "activities": [
+                    "End of your Journey and return"
+                ]
+            }
+        ]
+    },
+    {
+        "package_Id": "TTPKG07",
+        "destination": [
+            "Lonavala"
+        ],
+        "des_image":"https://www.abhibus.com/blog/wp-content/uploads/2023/07/Best-Places-to-Visit-in-Mahabaleshwar-in-2-Days.jpg",
+        "des_discription": "Often called the 'Jewel of Sahyadri' and the 'City of Caves', this hill station boasts of a spectacular setting that includes lush green valleys, stunning waterfalls, serene lakes and remarkable caves. The myriad places to visit in Lonavala include historical sites, natural wonders, religious attractions, etc.",
+        "source": [
+            "Rajkot",
+            "Ahmedabad",
+            "Mumbai",
+            "Delhi"
+        ],
+        "duration": 5,
+        "price": 17000,
+        "includedServices": [
+            "Accommodation",
+            "Guided Tours",
+            "Food",
+            "Travelling"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "activities": [
+                    "Starting your Journey" 
+                ]
+            },
+            {
+                "day": 2,
+                "activities": [
+                    "Arrival at Lonavala and stay at hotel"
+                ]
+            },
+            {
+                "day": 3,
+                "activities": [
+                    "Enjoy in Imagica"                    
+                ]
+            },
+            {
+                "day": 4,
+                "activities": [
+                    "Sighting in Lonavala"
+                ]
+            },
+            {
+                "day": 5,
+                "activities": [
+                    "End of your Journey and return"
+                ]
+            }
+        ]
+    },
+    {
+        "package_Id": "TTPKG08",
+        "destination": [
+            "Kutch"
+        ],
+        "des_image":"https://images.unsplash.com/photo-1549472899-1ed757265f81?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmFubiUyMG9mJTIwa3V0Y2h8ZW58MHx8MHx8fDA%3D",
+        "des_discription": "Sprawled over about 10,000 square kilometres, the Great Rann of Kutch is one of the largest salt deserts in the world. It will enchant you with its endless stretch of shimmering land.",
+        "source": [
+            "Rajkot",
+            "Ahmedabad",
+            "Mumbai",
+            "Delhi"
+        ],
+        "duration": 5,
+        "price": 5000,
+        "includedServices": [
+            "Accommodation",
+            "Guided Tours",
+            "Food",
+            "Travelling"
+        ],
+        "itinerary": [
+            {
+                "day": 1,
+                "activities": [
+                    "Starting your Journey" 
+                ]
+            },
+            {
+                "day": 2,
+                "activities": [
+                    "Arrival at Kutch"
+                ]
+            },
+            {
+                "day": 3,
+                "activities": [
+                    "Adventure Activities & Visit at Bhujiyo Fort"                    
+                ]
+            },
+            {
+                "day": 4,
+                "activities": [
+                    "Bhuj Sightseeing & White Rann Visit"
+                ]
+            },
+            {
+                "day": 5,
+                "activities": [
+                    "Visit at Dholavira, End of your Journey and return"
+                ]
+            }
+        ]
+    }
+]

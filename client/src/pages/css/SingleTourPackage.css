@@ -1,0 +1,170 @@
+.pac-head{
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    
+}
+#slideshow {
+    overflow: hidden;
+    height: 600px;
+    width: 1440px;
+    margin: 0 auto;
+    /* border: dashed 5px black; */
+    border-radius: 25px;
+}
+
+
+.slide {
+    float: left;
+    height: 600px;
+    width: 1440px;
+}
+
+
+.slide-wrapper {
+
+
+    width: calc(1440px * 4);
+
+
+    animation: slide 20s ease infinite;
+}
+
+
+.slide:nth-child(1) {
+    /* background: green; */
+}
+
+.slide:nth-child(2) {
+    /* background: pink; */
+}
+
+.slide:nth-child(3) {
+    /* background: red; */
+}
+
+.slide:nth-child(4) {
+    /* background: yellow; */
+}
+
+
+@keyframes slide {
+
+
+    0% {
+        margin-left: 0px;
+    }
+
+    25% {
+        margin-left: calc(-1440px * 1);
+    }
+
+    50% {
+        margin-left: calc(-1440px * 2);
+    }
+
+    75% {
+        margin-left: calc(-1440px * 3);
+    }
+}
+
+.slide-wrapper>img {
+    width:100%;
+    height: 500px;
+}
+
+.pac-detail{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    margin: 0px 10%;
+    padding: 5% 0px;
+
+}
+.pac-detail-left{
+    width: 70%;
+    height: 100%;
+}
+.pac-detail-head{
+    width: 100%;
+    height: 100%;
+}
+.pac-detail-right{
+    width: 30%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 3px 3px 5px black;
+    padding: 0px 1%;
+    color: black;
+}
+.pac-detail-head h1{
+    font-size: 30px;
+    font-weight: 600;
+}
+.pac-detail-head p{
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 5%;
+}
+.pac-detail-time{
+    display: flex;
+    justify-content: space-between;
+}
+.pac-detail-all{
+    font-size: 20px;
+    width: 100%;
+}
+.pac-detail-all i{
+    font-size: 20px;
+    margin: 1px;
+}
+.pac-detail-all p{
+    margin-left: 13%;
+}
+.pac-detail-price span{
+    font-size: 20px;
+    color: black;
+}
+.pac-detail-price{
+    color: black;
+}
+.pac-detail-include{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.pac-detail-inc{
+    width: 40%;
+    margin: 3% 5%;
+    font-size: 15px;
+
+}
+.pac-schedule{
+    width: 80%;
+    height: 100%;
+    margin: 0px 10%;
+    padding: 2% 0px;
+
+}
+.pac-schedule-day{
+    border-left: 2px solid black;
+    padding-left: 2%;
+    margin: 2% 0px;
+    
+}
+.pac-schedule-day h1{
+    font-size: 15px;
+    margin: 0px 0px 1% 0px;
+}
+.pac-schedule-day h3{
+    font-size: 20px;
+    margin: 0px 0px .5% 0px;
+}
+.pac-schedule-day p{
+    font-size: 15px;
+}
+.pac-schedule-day img{
+    width: 60%;
+    margin-top: 1%;
+    border-radius: 20px;
+}
