@@ -1,6 +1,10 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Merriweather:wght@700&display=swap');
+
+
 .pac-head{
     width: 100%;
-    height: 600px;
+    height: 100%;
     text-align: center;
     
 }
@@ -19,6 +23,10 @@
     height: 600px;
     width: 1440px;
 }
+.slide img{
+    width: 100%;
+    height: 120%;
+}
 
 
 .slide-wrapper {
@@ -27,32 +35,18 @@
     width: calc(1440px * 4);
 
 
-    animation: slide 20s ease infinite;
+    animation: slide 10s ease infinite;
 }
 
 
-.slide:nth-child(1) {
-    /* background: green; */
-}
 
-.slide:nth-child(2) {
-    /* background: pink; */
-}
-
-.slide:nth-child(3) {
-    /* background: red; */
-}
-
-.slide:nth-child(4) {
-    /* background: yellow; */
-}
 
 
 @keyframes slide {
 
 
     0% {
-        margin-left: 0px;
+        margin-left: 0px; 
     }
 
     25% {
@@ -68,22 +62,20 @@
     }
 }
 
-.slide-wrapper>img {
-    width:100%;
-    height: 500px;
-}
+
 
 .pac-detail{
     width: 80%;
     height: 100%;
     display: flex;
     margin: 0px 10%;
-    padding: 5% 0px;
+    padding: 2% 0px;
 
 }
 .pac-detail-left{
     width: 70%;
     height: 100%;
+    color: black;
 }
 .pac-detail-head{
     width: 100%;
@@ -92,17 +84,22 @@
 .pac-detail-right{
     width: 30%;
     height: 100%;
-    background-color: rgb(255, 255, 255);
+    background-color:#04280057;
     box-shadow: 3px 3px 5px black;
     padding: 0px 1%;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 .pac-detail-head h1{
     font-size: 30px;
+    font-family: 'Merriweather', serif;
     font-weight: 600;
+    color: black;
+    margin-bottom: 5px;
+    
 }
 .pac-detail-head p{
-    font-size: 25px;
+    font-size: 15px;
+    color: black;
     font-weight: 500;
     margin-bottom: 5%;
 }
@@ -113,20 +110,31 @@
 .pac-detail-all{
     font-size: 20px;
     width: 100%;
+    /* display: flex; */
+}
+.pac-detail-alll{
+    font-size: 20px;
+    width: 100%;
+    margin-left: 10%;
+    color: black;
+    margin-bottom: 2%;
+    display: flex;
 }
 .pac-detail-all i{
     font-size: 20px;
     margin: 1px;
 }
-.pac-detail-all p{
-    margin-left: 13%;
+.pac-detail-alll p{
+    margin-left: 1%;
+    display: flex;
 }
 .pac-detail-price span{
     font-size: 20px;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 .pac-detail-price{
-    color: black;
+    color: rgb(255, 255, 255);
+    margin-top: 2%;
 }
 .pac-detail-include{
     display: flex;
@@ -140,15 +148,17 @@
 
 }
 .pac-schedule{
-    width: 80%;
+    width: 100%;
     height: 100%;
-    margin: 0px 10%;
-    padding: 2% 0px;
+    /* margin: 0px 10%; */
+    padding: 2% 10%;
+    background-color: #04280057;
 
 }
 .pac-schedule-day{
     border-left: 2px solid black;
     padding-left: 2%;
+    font-size: 20px;
     margin: 2% 0px;
     
 }
@@ -162,6 +172,7 @@
 }
 .pac-schedule-day p{
     font-size: 15px;
+   
 }
 .pac-schedule-day img{
     width: 60%;

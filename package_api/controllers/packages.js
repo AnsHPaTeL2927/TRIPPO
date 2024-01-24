@@ -2,7 +2,7 @@ const tourPackages = require("../model/packages")
 
 const getAllPackages = async (req, res) => {
 
-    const { package_Id, destination, duration, price, _id } = req.query;
+    const { package_Id, destination, duration, price, _id, sort } = req.query;
     const queryObject = {}
 
     if (package_Id) {
@@ -17,9 +17,16 @@ const getAllPackages = async (req, res) => {
         queryObject._id = _id
     }
 
+    let apiData = tourPackages.find(queryObject);
+
+    if(sort){
+        let sortFix = sort.replace(",", " ");
+        apiData = apiData.sort(sortFix)
+    }
+
     console.log(queryObject)
 
-    const data = await tourPackages.find(queryObject)
+    const data = await apiData
     res.status(200).json({ data });
 };
 

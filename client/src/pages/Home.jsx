@@ -1,7 +1,7 @@
 import { Home_Package } from "../components/Home-Package";
 import "./css/Home.css";
 import Typewriter from "typewriter-effect";
-
+import { NavLink } from "react-router-dom";
 export const Home = () => {
   return (
     <>
@@ -41,18 +41,20 @@ export const Home = () => {
             </button>
 
             <button type="buttonn" className="btnn btnn--green">
-              <span className="btnn__txt">Static Package</span>
-              <i className="btnn__bg" aria-hidden="true"></i> 
-              <i className="btnn__bg" aria-hidden="true"></i>
-              <i className="btnn__bg" aria-hidden="true"></i>
-              <i className="btnn__bg" aria-hidden="true"></i>
+              <NavLink to="/package">
+                <span className="btnn__txt">Static Package</span>
+                <i className="btnn__bg" aria-hidden="true"></i>
+                <i className="btnn__bg" aria-hidden="true"></i>
+                <i className="btnn__bg" aria-hidden="true"></i>
+                <i className="btnn__bg" aria-hidden="true"></i>
+              </NavLink>
             </button>
           </div>
         </div>
       </div>
       <div className="head">Packages</div>
       <div className="home-package">
-        <Home_Package/>
+        <Home_Package />
       </div>
     </>
   );

@@ -1,0 +1,39 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.main-package{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2% 10%;
+    
+    justify-content: space-around;
+}
+.package-card{
+
+    width: 350px;
+    margin: 4% 0%;
+    height: 400px;
+    /* text-decoration: none; */
+    color: black;
+
+}
+.package-card img{
+    /* margin: 0px 5%; */
+    width: 100%;
+    border-radius: 20px;
+    height: 80%;
+}
+.package-card label{
+    width: 40%;
+    font-size: 25px;
+    /* word-spacing: 50px; */
+    /* font-weight: 600; */
+    font-family: 'Bebas Neue', sans-serif;
+}
+.package-card p{
+    text-decoration: none;
+    display: flex;
+    font-weight: 600;
+    margin: 0px 0px 0px 2%;
+}

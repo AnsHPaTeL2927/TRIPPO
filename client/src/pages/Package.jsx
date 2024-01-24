@@ -7,21 +7,23 @@ export const Package = () => {
 
   return (
     <>
+        <div className="main-package">
       {tourPackage.map((curElement, index) => {
-        const { destination, des_image, _id } = curElement;
+        const { destination, price,des_image, _id } = curElement;
         return (
           <>
+            
             <NavLink to={`/singletourpackage/${_id}`}>
-              <div className="home-package">
-                <div className="p-card" key={index}>
+                <div className="package-card" key={index}>
                   <img src={des_image[0]} alt=""/>
                   <label type="text">{destination}</label>
+                  <p><span>{price}</span>₹ / person</p>
                 </div>
-              </div>
             </NavLink>
           </>
         );
       })}
+      </div>
     </>
   );
 };

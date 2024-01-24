@@ -35,6 +35,8 @@ export const SingleTourPackage = () => {
           price,
           includedServices,
           itinerary,
+          age,
+          altitude
         } = curElement;
 
         return (
@@ -149,17 +151,53 @@ export const SingleTourPackage = () => {
                     </div>
                     <div className="pac-detail-time">
                       <div className="pac-detail-all">
-                        <i className="ri-calendar-line"></i>Duration
-                        <p>{duration}</p>
+                        <i className="ri-calendar-line"></i>Duration : {duration} Days
+                        
+                      </div>
+                      
+                      <div className="pac-detail-all">
+                        <i className="ri-landscape-line"></i>Max Altitude : {altitude} ft
+                       
                       </div>
                       <div className="pac-detail-all">
-                        <i className="ri-map-pin-line"></i>From
+                        <i className="ri-user-line"></i>Age : {age} years
+                        
+                      </div>
+                    </div>
+                  </div>
+                  <div className="pac-detail-right">
+                    <div className="pac-detail-price">
+                      <p>
+                        {" "}
+                        <span>{price}</span>₹ / person
+                      </p>
+                    </div>
+                    <br />
+                    <p>Included Services</p>
+                    <br />
+                    <div className="pac-detail-include">
+                      {includedServices.map((element, index) => {
+                        return (
+                          <>
+                            <div className="p-card" style={{ width: "49%" }}>
+                            <i className="ri-git-commit-fill"></i>{element}
+                              {index < source.length - 1 ? " " : ""}
+                            </div>
+                          </>
+                        );
+                      })}
+                    </div>
+                  </div>
+                </div>
+                <div className="pac-from">
+                <div className="pac-detail-alll">
+                        <i className="ri-map-pin-line"></i>From : 
                         <p>
                           {source.map((element, index) => {
                             return (
                               <>
                                 <div
-                                  className="p-card"
+                                  className="package  -from"
                                   style={{ width: "auto" }}
                                 >
                                   {element}
@@ -170,39 +208,9 @@ export const SingleTourPackage = () => {
                           })}
                         </p>
                       </div>
-                      <div className="pac-detail-all">
-                        <i className="ri-landscape-line"></i>Max Altitude
-                        <p>0 Ft</p>
-                      </div>
-                      <div className="pac-detail-all">
-                        <i className="ri-user-line"></i>Age
-                        <p>6-50 years</p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="pac-detail-right">
-                    <div className="pac-detail-price">
-                      <p>
-                        {" "}
-                        <span>{price}</span> / person
-                      </p>
-                    </div>
-                    <p>Include</p>
-                    <div className="pac-detail-include">
-                      {includedServices.map((element, index) => {
-                        return (
-                          <>
-                            <div className="p-card" style={{ width: "auto" }}>
-                              {element}
-                              {index < source.length - 1 ? ", " : ""}
-                            </div>
-                          </>
-                        );
-                      })}
-                    </div>
-                  </div>
                 </div>
                 <div className="pac-schedule">
+                  <h1>Itinerary</h1>
                   {itinerary.map((element) => {
                     const { day, activities } = element;
                     {

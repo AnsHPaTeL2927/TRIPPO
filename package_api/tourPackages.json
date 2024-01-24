@@ -1,12 +1,14 @@
-[ 
+[
     {
         "package_Id": "TTPKG01",
-        "destination": [ "Kedarnath"],
-        "des_image":[
+        "destination": [
+            "Kedarnath"
+        ],
+        "des_image": [
             "https://wallpapers.com/images/featured/kedarnath-4k-9pd6c84fjldyenjg.jpg",
-            "https://wallpapers.com/images/featured/kedarnath-4k-9pd6c84fjldyenjg.jpg",
-            "https://wallpapers.com/images/featured/kedarnath-4k-9pd6c84fjldyenjg.jpg",
-            "https://wallpapers.com/images/featured/kedarnath-4k-9pd6c84fjldyenjg.jpg"
+            "https://t3.ftcdn.net/jpg/02/79/35/84/240_F_279358406_v3boW9CTraCQGpB9l52WiDoRlwliDp0z.jpg",
+            "https://t4.ftcdn.net/jpg/04/67/36/13/240_F_467361360_mc57p7rl6kJxzl904LvSt519zC2CNLgM.jpg",
+            "https://www.rishikeshrafting.co/wp-content/uploads/2021/07/kedarnath_trek_2021.jpg"
         ],
         "des_discription": "Kedarkantha is one of the most popular winter treks of India. It's an easy to moderate level trek which attracts visitors for its amazing snow-clad landscapes and a tall summit (12,500 ft), which offers majestic panoramic views from its top. Those who love snow & mountains, this trek is undoubtedly the best choice for them.",
         "source": [
@@ -16,6 +18,8 @@
             "Delhi"
         ],
         "duration": 8,
+        "age": "6-56",
+        "altitude": "11,755",
         "price": 10000,
         "includedServices": [
             "Accommodation",
@@ -86,7 +90,12 @@
             "Manali",
             "Kasol"
         ],
-        "des_image":"https://images.unsplash.com/photo-1581791534721-e599df4417f7?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a2Fzb2x8ZW58MHx8MHx8fDA%3D",
+        "des_image": [
+            "https://images.unsplash.com/photo-1581791534721-e599df4417f7?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a2Fzb2x8ZW58MHx8MHx8fDA%3D",
+            "https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_1316/https%3A%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1570484056%2Fwin3rkrz2ncgfo55yhb9.jpg",
+            "https://t4.ftcdn.net/jpg/02/57/91/73/240_F_257917357_PvS6hvf8QOsRDOdfl9JMYRlg0nTNmuQ2.jpg",
+            "https://www.savaari.com/blog/wp-content/uploads/2021/12/photo-1597167231350-d057a45dc868-1024x549.jpg"
+        ],
         "des_discription": "Manali is considered as God’s heaven. From majestic mountains to long rivers to aromatic forest and an outstanding blend of the colours of nature, Manali has its all.Manali is also a pioneer of many aero sports. In all Manali is a wholesome of refreshments and excitements. Kasol known as Mini Israel because a major proportion of people here migrated from Israel. In all Kasol does leave an impact on minds and soul and rejuvenates and living the moment fully.",
         "source": [
             "Rajkot",
@@ -95,6 +104,8 @@
             "Delhi"
         ],
         "duration": 9,
+        "age": "6-56",
+        "altitude": "6,726",
         "price": 9500,
         "includedServices": [
             "Accommodation",
@@ -164,7 +175,12 @@
         "destination": [
             "Jaisalmer"
         ],
-        "des_image":"https://images.unsplash.com/photo-1489493585363-d69421e0edd3?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dGhhciUyMGRlc2VydHxlbnwwfHwwfHx8MA%3D%3D",
+        "des_image": [
+            "https://images.unsplash.com/photo-1489493585363-d69421e0edd3?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dGhhciUyMGRlc2VydHxlbnwwfHwwfHx8MA%3D%3D",
+            "https://t3.ftcdn.net/jpg/05/12/71/32/240_F_512713285_XjLTob7AeFDymVwJ0yuNarGvB17xvXLc.jpg",
+            "https://t4.ftcdn.net/jpg/01/18/69/81/240_F_118698103_Cpb3VZ71fvge20tWzJnafbSy0f2DlaQo.jpg",
+            "https://images.luxuryescapes.com/q_auto:good/4mzvcel5xpydrmrza48"
+        ],
         "des_discription": "Jaisalmer is also known as 'The Golden City' of India and is one of the largest city of Rajasthan, which also comprises of the Pakistan border on the West. The town is the world heritage site and is mainly built of yellowish sandstone.",
         "source": [
             "Rajkot",
@@ -173,6 +189,8 @@
             "Delhi"
         ],
         "duration": 5,
+        "age": "6-56",
+        "altitude": "738",
         "price": 6000,
         "includedServices": [
             "Accommodation",
@@ -184,7 +202,7 @@
             {
                 "day": 1,
                 "activities": [
-                    "Starting your Journey" 
+                    "Starting your Journey"
                 ]
             },
             {
@@ -224,7 +242,12 @@
         "destination": [
             "Goa"
         ],
-        "des_image":"https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+        "des_image": [
+            "https://images.unsplash.com/photo-1614082242765-7c98ca0f3df3?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z29hfGVufDB8fDB8fHww",
+            "https://t4.ftcdn.net/jpg/03/20/00/21/240_F_320002102_Mtgit9EEEutS4yq3A7kl2pGb4VKO6IQI.jpg",
+            "https://t3.ftcdn.net/jpg/04/11/98/26/240_F_411982660_8aKPN37K2vEvvNdtnnCl0sS9UCNSfWgd.jpg",
+            "https://media.cnn.com/api/v1/images/stellar/prod/170831133019-panjim-church-goa.jpg?q=w_1600,h_900,x_0,y_0,c_fill/h_618"
+        ],
         "des_discription": "The state of Goa, in India, is famous for its beaches and places of worship. Tourism is its primary industry, and is generally focused on the coastal areas of Goa, with decreased tourist activity inland.",
         "source": [
             "Rajkot",
@@ -233,6 +256,8 @@
             "Delhi"
         ],
         "duration": 7,
+        "age": "6-56",
+        "altitude": "3,366",
         "price": 20000,
         "includedServices": [
             "Accommodation",
@@ -244,7 +269,7 @@
             {
                 "day": 1,
                 "activities": [
-                    "Starting your Journey" 
+                    "Starting your Journey"
                 ]
             },
             {
@@ -256,7 +281,7 @@
             {
                 "day": 3,
                 "activities": [
-                    "Dolphin Trip"                    
+                    "Dolphin Trip"
                 ]
             },
             {
@@ -278,7 +303,7 @@
                 ]
             },
             {
-                "day":7,
+                "day": 7,
                 "activities": [
                     "End of your Journey and return"
                 ]
@@ -290,7 +315,12 @@
         "destination": [
             "Saputara"
         ],
-        "des_image":"https://www.rivieratours.in/cover_image/Saputara-Lake1.jpg",
+        "des_image": [
+            "https://www.rivieratours.in/cover_image/Saputara-Lake1.jpg",
+            "https://t4.ftcdn.net/jpg/04/52/47/65/240_F_452476541_Q1pILCPWpyO1u5qnCBOwF0lb3Ba7AqpN.jpg",
+            "https://t4.ftcdn.net/jpg/03/03/85/51/240_F_303855178_pYiskEZ2LfqSVESUJMUHF0Fg4Gv8EPLt.jpg",
+            "https://images.deccanherald.com/deccanherald/import/sites/dh/files/articleimages/2022/06/08/girmal-waterfall-1116306-1654661896.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true"
+        ],
         "des_discription": "Saputara hill station is situated in the district of Dang. It is a part of the Sahyadri range of mountains and the highest point is at an altitude of 1081 metres from sea level. After the very first rain of the season, the whole area comes out full of greenery, frequent waterfalls and gushing streams. Saputara Adventure Camp is all about feeling the thrill of camping in these most beautiful hills. The participants will stay in tents, visit tourist places and hike up to nearby hills. The city has been developed as a Hill Station by the government and is a hot favourite place of tourists all the way coming from Gujarat, Nashik and Bombay. The place is also famous for its rich tribal heritage and festivals. Many museums are here showing the culture of the Dangs, the local tribe.",
         "source": [
             "Rajkot",
@@ -299,6 +329,8 @@
             "Delhi"
         ],
         "duration": 4,
+        "age": "6-56",
+        "altitude": "3,000",
         "price": 5000,
         "includedServices": [
             "Accommodation",
@@ -310,7 +342,7 @@
             {
                 "day": 1,
                 "activities": [
-                    "Starting your Journey" 
+                    "Starting your Journey"
                 ]
             },
             {
@@ -322,7 +354,7 @@
             {
                 "day": 3,
                 "activities": [
-                    "Treking at Governor Hill"                    
+                    "Treking at Governor Hill"
                 ]
             },
             {
@@ -338,7 +370,12 @@
         "destination": [
             "Meghalaya"
         ],
-        "des_image":"https://cdn-agnjn.nitrocdn.com/dNsRUudDKzRLOEehZiLyIVrzbimKPWow/assets/static/optimized/rev-70608c3/wp-content/uploads/2020/09/Dawki_Meghalaya_01_1.jpg",
+        "des_image": [
+            "https://cdn-agnjn.nitrocdn.com/dNsRUudDKzRLOEehZiLyIVrzbimKPWow/assets/static/optimized/rev-70608c3/wp-content/uploads/2020/09/Dawki_Meghalaya_01_1.jpg",
+            "https://t4.ftcdn.net/jpg/03/02/88/35/240_F_302883500_6vhVc3sboSc94CqJNA5mr2NLvTzEnQoj.jpg",
+            "https://t3.ftcdn.net/jpg/03/37/20/12/240_F_337201266_N2Yfktn7ZEQwYfl91W0VunYG0taj79BL.jpg",
+            "https://www.bruisedpassports.com/wp-content/uploads/2021/12/Bruised-PAssports-Meghalaya-Trip-Itinerary-5.jpg"
+        ],
         "des_discription": "Located in North-east India, Meghalaya, also known as the Abode of Clouds, falls in one of the richest biodiversity areas in the world. The famed monsoons, the rich traditional festivals, and the dramatic terrain are just some of the many things this state is famous for.",
         "source": [
             "Rajkot",
@@ -347,6 +384,8 @@
             "Delhi"
         ],
         "duration": 5,
+        "age": "6-56",
+        "altitude": "3,000",
         "price": 20500,
         "includedServices": [
             "Accommodation",
@@ -358,7 +397,7 @@
             {
                 "day": 1,
                 "activities": [
-                    "Starting your Journey" 
+                    "Starting your Journey"
                 ]
             },
             {
@@ -370,7 +409,7 @@
             {
                 "day": 3,
                 "activities": [
-                    "Majuli Cycling Tour"                    
+                    "Majuli Cycling Tour"
                 ]
             },
             {
@@ -392,7 +431,12 @@
         "destination": [
             "Lonavala"
         ],
-        "des_image":"https://www.abhibus.com/blog/wp-content/uploads/2023/07/Best-Places-to-Visit-in-Mahabaleshwar-in-2-Days.jpg",
+        "des_image": [
+            "https://www.abhibus.com/blog/wp-content/uploads/2023/07/Best-Places-to-Visit-in-Mahabaleshwar-in-2-Days.jpg",
+            "https://t4.ftcdn.net/jpg/04/00/20/39/240_F_400203954_VkUp4XbPfdhXy1pAaeF7OSoMqqwa2qnO.jpg",
+            "https://t3.ftcdn.net/jpg/02/79/74/60/240_F_279746080_eXm1Z9Mgb9DrfQyY1GrKrmacSiSsA5hf.jpg",
+            "https://t3.ftcdn.net/jpg/05/43/13/04/240_F_543130478_KqNOvX8nfHaRrJ2DuZULvBgxDINp7TwD.jpg"
+        ],
         "des_discription": "Often called the 'Jewel of Sahyadri' and the 'City of Caves', this hill station boasts of a spectacular setting that includes lush green valleys, stunning waterfalls, serene lakes and remarkable caves. The myriad places to visit in Lonavala include historical sites, natural wonders, religious attractions, etc.",
         "source": [
             "Rajkot",
@@ -401,6 +445,8 @@
             "Delhi"
         ],
         "duration": 5,
+        "age": "6-56",
+        "altitude": "2,047",
         "price": 17000,
         "includedServices": [
             "Accommodation",
@@ -412,7 +458,7 @@
             {
                 "day": 1,
                 "activities": [
-                    "Starting your Journey" 
+                    "Starting your Journey"
                 ]
             },
             {
@@ -424,7 +470,7 @@
             {
                 "day": 3,
                 "activities": [
-                    "Enjoy in Imagica"                    
+                    "Enjoy in Imagica"
                 ]
             },
             {
@@ -446,7 +492,12 @@
         "destination": [
             "Kutch"
         ],
-        "des_image":"https://images.unsplash.com/photo-1549472899-1ed757265f81?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmFubiUyMG9mJTIwa3V0Y2h8ZW58MHx8MHx8fDA%3D",
+        "des_image": [
+            "https://images.unsplash.com/photo-1549472899-1ed757265f81?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmFubiUyMG9mJTIwa3V0Y2h8ZW58MHx8MHx8fDA%3D",
+            "https://t4.ftcdn.net/jpg/02/81/29/29/240_F_281292997_D0nNC01ut8AeHlOjKSJdiWy27DEzQgfU.jpg",
+            "https://t3.ftcdn.net/jpg/05/37/84/02/240_F_537840237_tcCoxj1H6ErHnWqOdIxUQ0SeVanN3zy6.jpg",
+            "https://t4.ftcdn.net/jpg/03/27/00/15/240_F_327001575_Hokk2NmzxRnhgyjj1nQDrGnytDyXhpao.jpg"
+        ],
         "des_discription": "Sprawled over about 10,000 square kilometres, the Great Rann of Kutch is one of the largest salt deserts in the world. It will enchant you with its endless stretch of shimmering land.",
         "source": [
             "Rajkot",
@@ -455,6 +506,8 @@
             "Delhi"
         ],
         "duration": 5,
+        "age": "6-56",
+        "altitude": "1,503",
         "price": 5000,
         "includedServices": [
             "Accommodation",
@@ -466,7 +519,7 @@
             {
                 "day": 1,
                 "activities": [
-                    "Starting your Journey" 
+                    "Starting your Journey"
                 ]
             },
             {
@@ -478,7 +531,7 @@
             {
                 "day": 3,
                 "activities": [
-                    "Adventure Activities & Visit at Bhujiyo Fort"                    
+                    "Adventure Activities & Visit at Bhujiyo Fort"
                 ]
             },
             {
