@@ -13,13 +13,14 @@ import { About } from "./pages/About";
 import { Contact } from "./pages/Contact";
 import { Logout } from "./pages/Logout";
 import { SingleTourPackage } from "./pages/SingleTourPackage"
+import { Booking } from "./pages/Booking";
 
 
 
 function App() {
 
   return (
-    <>
+    <> 
       <BrowserRouter>
         <Navbar/> 
         <Routes>
@@ -31,6 +32,7 @@ function App() {
           <Route path="/register" element={<Register/>}></Route>
           <Route path="/logout" element={<Logout/>}></Route>
           <Route path="/singletourpackage/:id" element={<SingleTourPackage/>}></Route>
+          <Route path="/booking/:id" element={<Booking/>}></Route>
         </Routes>
         <Footer/>
       </BrowserRouter>
